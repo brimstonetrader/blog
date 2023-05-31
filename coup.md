@@ -1,3 +1,5 @@
+A
+
 Coup is a social deduction game which involves almost no exchange of cards. It is 
 permissible to lie about what you have - I have played rounds with people who never 
 even bothered to check. At the beginning you get two cards, and if you lose both of 
