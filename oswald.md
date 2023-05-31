@@ -14,7 +14,7 @@ turn. Stones can be removed and summoned back to one's stock in two ways:
                      |  O   
                      | OOO      - 8 POINTS (ONLY ONE)     
                      |  O     
-	             |
+	                 |
                      |         O      
                      |         O            
                      |  OOOOO  O  - 4 POINTS (TWO WAYS)         
