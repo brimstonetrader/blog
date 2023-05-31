@@ -12,7 +12,6 @@ created in [Ludii](https://ludii.games/details.php?keyword=Block). This program 
 version of Jamaican-Style Dominoes, which I will be working on this week. I will update this blog post 
 as I make progress, and if I have time, explore other domino variants to implement. The main reason 
 that I want to do this is that both my uncle and I frequently play this game in times of leisure with 
-this [app](https://play.google.com/store/apps/details?id=com.mygdx.YardieStyleDominoes.android&
-hl=en_US&gl=US), the only one I know of that renders this particular ruleset, and its wait times and 
+this [app](https://play.google.com/store/apps/details?id=com.mygdx.YardieStyleDominoes.android), the only one I know of that renders this particular ruleset, and its wait times and 
 online capabilities are abysmal. I am hoping that Ludii can provide us both with a more pleasant gaming 
 experience.
