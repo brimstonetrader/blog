@@ -4,8 +4,7 @@ This is one of my favorite games of all time. I learned to play it on a grey but
 Gulfport, Florida, at the soccer fields. My uncle makes a habit of driving up there every Sunday, to 
 stay grounded, and it's something of a tradition to play dominoes after soccer. I figured out the 
 rules, despite I can't quite understand pure Patois, from watching. Jamaican-style dominoes is very 
-particular: it feels mathematically correct. It can only be played by four players. This [website]
-(https://jamaicans.com/dominoesjastyle/) explains the rules well. 
+particular: it feels mathematically correct. It can only be played by four players. This [website](https://jamaicans.com/dominoesjastyle/) explains the rules well. 
 
 [Wikipedia](https://en.wikipedia.org/wiki/List_of_domino_games#Block_Game) lists the "Block Game" as 
 having similar rules, and calls it "the simplest basic domino variant." A two player rendition has been 
