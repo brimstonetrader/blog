@@ -10,23 +10,39 @@ turn. Stones can be removed and summoned back to one's stock in two ways:
 
 
 |   O
+
 |  OOO      - 8 POINTS (ONLY ONE)
+
 |   O
+
 |
+
 |        O
+
 |        O  
+
 | OOOOO  O  - 4 POINTS (TWO WAYS)
+
 |        O
+
 |        O
+
 | 	   
+
 |                                                    OO  OO   O      O
+
 | ...       - 2 POINT                           (EX. O    O   OOO  OOO ) (FOUR WAYS)
+
 |                                                   OO    OO    O  O
+
 | 			      
+
 |                                     O    O   O     OO  OO     O   O    O
+
 | ...       - 1 POINT           (EX. OOO   OO  OOO  OO    OO  OOO  OO   OOO ) (ETC.)
+
 |                                      O  OO    O    O    O    O    OO  O
-			 					 
+
 								 
 You win if you get 12 points. I'm eager to fiddle with the scoring (1,2,3,5 in particular seems like 
 it would change a lot) and see what results in the most interesting behavior. I also might try
