@@ -31,4 +31,4 @@ turn. Stones can be removed and summoned back to one's stock in two ways:
 								 
 You win if you get 12 points. I'm eager to fiddle with the scoring (1,2,3,5 in particular seems like 
 it would change a lot) and see what results in the most interesting behavior. I also might try
-incorporating piece movement.
+incorporating piece movement. Basically just tetris and gomoku. I'm curious as to what this will look like as a seriesof ludemes.
