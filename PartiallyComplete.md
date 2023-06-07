@@ -87,7 +87,7 @@ implemented, but that "GroupSwap" method doesn't work.
   
 - Catchup
 
-Very simple. One can place either one or two nodes on their turn, and if one creates a new largest 
+One can place either one or two nodes on their turn, and if one creates a new largest 
 group within their turn, the other player may lay down a third. It works, except for the "VariableUpdate"
 method. 
 
@@ -134,7 +134,9 @@ method.
 		)
 	)
   
-  Last was Ordo: like Breakthrough, one starts on top or bottom of the board, and the goal is to 
+   - Ordo 
+  
+  Like Breakthrough, one starts on top or bottom of the board, and the goal is to 
   get to the other one. The nodes begin as a contiguous group (where diagonal connections count), and 
   must remain that way throughout. All of this is fine and works. What I was unable to implement was the 
   "Ordo Move", a simultaneous movement of any vertical line of nodes horizontally, or horizontal line vertically.  
