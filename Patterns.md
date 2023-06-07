@@ -134,8 +134,7 @@ like on the three regular tilings:
     
     |   O               O              OOO
     
-    
-    I'm not quite doing justice how cool that last triangular one looks. It's like a ninja star. 
+I'm not quite doing justice how cool that last triangular one looks. It's like a ninja star. 
     
     
     
