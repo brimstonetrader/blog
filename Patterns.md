@@ -28,5 +28,5 @@ simple game, one of the ones I'll play with small children or adults who don't l
 lay eight nodes on a 5x5 square grid, then move them like Chess kings until you've got a 4-line or a 
 square. The game's inventor was exceedingly proud of his creation, with the wikipedia article stating 
 
-    - The rules, as summarized above, are very simple, but the strategy is complicated enough 
-      to fill a book, <ins>Scarne on Teeko</ins>, by Scarne (1955).
+ - The rules, as summarized above, are very simple, but the strategy is complicated enough 
+   to fill a book, <ins>Scarne on Teeko</ins>, by Scarne (1955).
