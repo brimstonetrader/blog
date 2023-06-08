@@ -1,8 +1,4 @@
-I wrote these at night, well off the clock, but it occurs to me that a Sort Ludeme could
-prove useful in the near future. This isn't Java, but I implemented some pleasant, clean
-versions of mergeSort and quickSort in Haskell, mainly, because I wanted to know how they work. Again, 
-this was a personal endeavor, but I will occasionally post about personal little flights of fancy
-that I go on in my spare time. 
+I wrote these at night, well off the clock.
 
 
  - Merge Sort
