@@ -1,10 +1,10 @@
 For a while I'd go from class to class with a deck of cards in my pocket, aces through fours on top. 
-During the five minutes between classes, when the students are anxiously stirring in their seats,
-I'd get whoever was sitting next to me to play a game I'd learned as "Anxiety". You lay all the cards
+During the five minutes between, when us students were anxiously stirring in their seats,
+I'd get whoever was sitting next to me to play a game I'd learned as "Anxiety." You lay all the cards
 out visible at the beginning, then whoever goes first has to put the ace of spades off to the side, and
 choose the card the next player has to lay down. Play carries on like that, and eventually a 4x4 grid
 forms (it's illegal to break out of the grid once it exists). The winner is whoever forms a line of 
-four cards which share an attribute: Odd/Even, Black/Red, Small/Large, or Sharp/Dull. 
+four cards which share an attribute: Odd/Even, Black/Red, Small/Large, or Sharp On Top/Dull On Top. 
 
 This game exists in Ludii! It's called Quarto, and it uses pieces instead of cards. Nevertheless, I am 
 currently using it as a base for the Nigérien trick-taking card game Agram. 
@@ -149,3 +149,5 @@ currently using it as a base for the Nigérien trick-taking card game Agram.
 				"Agram_ai"
 			)
 		)
+		
+		
