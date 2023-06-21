@@ -4,7 +4,7 @@ region, but a stack is neither. In Ludii, you've got Components, which can be a 
 Tile, and Containers, which can be a Board, Deck, Dice, or Hand. Stacks can be created, but they are not
 a Type in Ludii. This is something which could be worked on and fixed. I have not found evidence of 
 the "Deck" Ludeme being used successfully, but it conceptually acts as an off-board stack. An on-board
-stack would likely need to be classified as a Container. Anyhow, here's the latest crop.
+stack would likely need to be classified as a Container. Anyway,
 
         (define "Switch"
         	(if (and {(> (score P1) (score P2)) (> (score P1) (score P4)) (> (score P1) (score P3))})
