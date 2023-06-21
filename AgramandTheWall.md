@@ -1,7 +1,7 @@
 The 4 player version of Agram has shuffled cards, via "place Random Stack", but this means it can not 
 have any sort of hidden information. This is because "set Hidden" does what it does to a component or
-region, but a stack is neither. In Ludii, you've got Components, which can be a Card, Die, Piece, or 
-Tile, and Containers, which can be a Board, Deck, Die, or Hand. Stacks can be created, but they are not
+region, but a stack is neither. In Ludii, you've got Components, which can be a Card, Die*, Piece, or 
+Tile, and Containers, which can be a Board, Deck, Dice, or Hand. Stacks can be created, but they are not
 a Type in Ludii. This is something which could be worked on and fixed. I have not found evidence of 
 the "Deck" Ludeme being used successfully, but it conceptually acts as an off-board stack. An on-board
 stack would likely need to be classified as a Container. Anyhow, here's the latest crop.
@@ -391,4 +391,5 @@ stack would likely need to be classified as a Container. Anyhow, here's the late
         		)
         
         
-        
+*The Die here cannot be rolled: merely manipulated as a 3d object. A more fitting name might be "polyhedron".
+The Dice can be rolled in-game, but only as specified. Thus, any stochastic object is a container at present.
