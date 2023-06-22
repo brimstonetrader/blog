@@ -2,9 +2,10 @@
 
 - The "deal" ludeme is super scarce. The "dealable types" are Cards and Dominos, although I've found 
 some weird limitations on the former and no success on the latter. Making it work as intended for these
-types is one matter, the other is generalizing it to dealing Pieces of distinct indices. Below is a stupid
-game, a Tic-Tac-Toe variant with cards instead of Os and Xs, and no legitimate win condition. It does 
-not work, despite being mostly copied verbatim from the reference.
+types is one matter, the other is generalizing it to dealing Pieces of distinct indices without replacement.
+I've demonstrated that this would be sufficient. Below is a stupid game, a Tic-Tac-Toe variant with cards
+instead of Os and Xs, and no legitimate win condition. It does not work, despite being mostly copied verbatim
+from the reference.
 
  	 (game "DECK" 
 		(players 2) 
@@ -43,7 +44,7 @@ Below, the ludeme works fine.
 Jamaican-Style Dominoes requires four players, which is why the fact that the below code does not work
 makes me sad.
 
-	(game "DOMINO" 
+	(game "4DOMINO" 
 		(players 4) 
 		(equipment { 
 			(board (square 10)) 
