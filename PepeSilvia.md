@@ -6,7 +6,7 @@ types is one matter, the other is generalizing it to dealing Pieces of distinct 
 game, a Tic-Tac-Toe variant with cards instead of Os and Xs, and no legitimate win condition. It does 
 not work, despite being mostly copied verbatim from the reference.
 
-	(game "DECK" 
+ 	 (game "DECK" 
 		(players 2) 
 		(equipment { 
 			(board (square 10)) 
