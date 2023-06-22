@@ -164,6 +164,6 @@ P.S. A "permute" unary IntArrayList option would be beneficial, I've got a nice 
 among the other set operations on my other blog, but we'd need an option to set a variable hidden. 
 Currently, only in-game objects can be set hidden, not random numbers or locations. 
 
-* Variables can only be integers. Lists of integers could be useful, although I am not positive this could 
+P.P.S Variables can only be integers. Lists of integers could be useful, although I am not positive this could 
 accomplish anything remember values couldn't. I'm still toying with that, though this can't be hidden. Neither
 can variables, at present.
